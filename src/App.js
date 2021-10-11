@@ -7,7 +7,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-           <code>src/App.js</code>
+           <code>src/App.js</code> chipi
+        
         </p>
         <a
           className="App-link"
